@@ -4,15 +4,15 @@ Wenera Developer Tool - это удобный редактор для созда
 
 ## Пару скриншотов
 
-![Autorize page](https://imgur.com/H9OQryE)
+![Autorize page](https://github.com/mindcodd3r/WeneraDeveloperTool/blob/master/app/src/main/res/drawable/screen2.jpg?raw=true)
 
-![Menu page](https://imgur.com/U60Vn31)
+![Menu page](https://github.com/mindcodd3r/WeneraDeveloperTool/blob/master/app/src/main/res/drawable/screen4.jpg?raw=true)
 
-![Profile page](https://imgur.com/mLP4vnY)
+![Profile page](https://github.com/mindcodd3r/WeneraDeveloperTool/blob/master/app/src/main/res/drawable/screen3.jpg?raw=true)
 
-![Imgui example 1](https://imgur.com/P392hqd)
+![Imgui example 1](https://github.com/mindcodd3r/WeneraDeveloperTool/blob/master/app/src/main/res/drawable/screen1.jpg?raw=true)
 
-![Imgui example 1](https://imgur.com/zH8XwhL)
+![Imgui example 1](https://github.com/mindcodd3r/WeneraDeveloperTool/blob/master/app/src/main/res/drawable/screen5.jpg?raw=true)
 
 ## Установка
 
